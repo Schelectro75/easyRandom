@@ -2,7 +2,7 @@
 ### A small single-function UNIX/LINUX C library that can be used to generate random numbers without the need to work with the random(3) and srandom(3) function
 ___
 
-##Impementation
+## Impementation
 
 1. Download the folder called easyRand
 2. Paste it into your program's folder 
@@ -12,7 +12,7 @@ ___
 #include "./easyRand/easyRand.h"
 ```
 
-##Contents
+## Contents
 
 The library includes only a single function `easyrandom` with three arguments
 
