@@ -2,7 +2,7 @@
 ### A small single-function UNIX/LINUX C library that can be used to generate random numbers without the need to work with the random(3) and srandom(3) function
 ___
 
-## Impementation
+## Implementation
 
 1. Download the folder called easyRand
 2. Paste it into your program's folder 
@@ -47,3 +47,4 @@ Output:
 The generator returned 92 after 115563572 cycles
 Stored variable value 92
 ```
+Try it on [https://replit.com/@Schelectro75/easyRand-demonstration?v=1] (replit.com)
