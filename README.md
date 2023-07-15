@@ -47,4 +47,4 @@ Output:
 The generator returned 92 after 115563572 cycles
 Stored variable value 92
 ```
-Try it on [https://replit.com/@Schelectro75/easyRand-demonstration?v=1] (replit.com)
+Try it on [https://replit.com/@Schelectro75/easyRand-demonstration?v=1](replit.com)
